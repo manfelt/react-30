@@ -16,7 +16,7 @@ I'm beginning with a 30-days-of-react for the month of September. My goal for th
 
 ## La oss sette i gang! 🚀
 
-- [ ] Day 1
+- [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
