@@ -12,11 +12,14 @@ Nothing
 - There are prerequisites to learning react
 
   - **Javascript Es6**:  It is a JavaScript standard meant to ensure the interoperability of Web pages across different Web browsers.
-  
-  - **React Native CLI**: JavaScript Higher Order Functions & Arrays
 
+### 1. HOC or 'Higher Order Component':
 
-### Styling React Native
+- A Higher Order Component is an advanced technique in React for reusing component logic in applications. 
+
+- It takes a component and returns a new Component. 
+
+### 2. Styling React:
 
 - React Native gives us a css-like way to style our components. If you've used css modules, things should look very familiar. Except with differences
 
@@ -44,28 +47,12 @@ const Box = () => (
 export default Box;
   ```
 
-  - The `FlatList` component can be passed in a few other props like
-    - **numColumns**: Arranges the items in number of columns specified
-    - **keyExtractor**: Specifies the property to use as the key for all top level list items. The default is the `key` prop.
-
-  ```js
-  <FlatList
-    keyExtractor={(item) => item.useThisAsKey}
-    numColumns={2}
-    data={people}
-    renderItem={({ item }) => <Text style={styles.item}>{item.name}</Text>}
-  />
-  ```
- 
- - JavaScript Higher Order Functions & Arrays
 
 
 ## Challenges
 
-- **Enable VT-x in your BIOS security settings**:
-
   - For the moment, a challenge is to collect an overview and understanding of what lies ahead of me. Which knowledge do I need to hold to move forward, and am I even on secure footing with what I already know?
-  - 
+  
   
 ## Tomorrow's focus
 
