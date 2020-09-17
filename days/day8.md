@@ -1,6 +1,6 @@
 # Day 08
 
-**Date**: 15th Sept, 2020
+**Date**: 16th Sept, 2020
 **Time spent**: 1,5 hours
 
 ## Summary of yesterday
