@@ -21,12 +21,12 @@ I'm beginning with a 30-days-of-react for the month of September. My goal for th
 - [X] Day 3
 - [X] Day 4
 - [X] Day 5
-- [ ] Day 6
-- [ ] Day 7
-- [ ] Day 8
-- [ ] Day 9
-- [ ] Day 10
-- [ ] Day 11
+- [X] Day 6
+- [X] Day 7
+- [X] Day 8
+- [X] Day 9
+- [X] Day 10
+- [X] Day 11
 - [ ] Day 12
 - [ ] Day 13
 - [ ] Day 14
