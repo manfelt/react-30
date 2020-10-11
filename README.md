@@ -27,11 +27,11 @@ I'm beginning with a 30-days-of-react for the month of September. My goal for th
 - [X] Day 9
 - [X] Day 10
 - [X] Day 11
-- [ ] Day 12
-- [ ] Day 13
-- [ ] Day 14
-- [ ] Day 15
-- [ ] Day 16
+- [X] Day 12
+- [X] Day 13
+- [X] Day 14
+- [X] Day 15
+- [X] Day 16
 - [ ] Day 17
 - [ ] Day 18
 - [ ] Day 19
